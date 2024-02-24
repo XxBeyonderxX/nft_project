@@ -1,0 +1,13 @@
+/mnt/c/Users/alide/Desktop/ICP/nft_project/dip721-nft-container/target/release/deps/quote-8ea45ffce1b41dbd.rmeta: /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/mnt/c/Users/alide/Desktop/ICP/nft_project/dip721-nft-container/target/release/deps/libquote-8ea45ffce1b41dbd.rlib: /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/mnt/c/Users/alide/Desktop/ICP/nft_project/dip721-nft-container/target/release/deps/quote-8ea45ffce1b41dbd.d: /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs:
+/home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs:
+/home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs:
+/home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs:
+/home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs:
+/home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs:
+/home/ali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs:

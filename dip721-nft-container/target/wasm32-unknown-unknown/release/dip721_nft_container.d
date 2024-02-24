@@ -1,0 +1,1 @@
+/mnt/c/Users/alide/Desktop/ICP/nft_project/dip721-nft-container/target/wasm32-unknown-unknown/release/dip721_nft_container.wasm: /mnt/c/Users/alide/Desktop/ICP/nft_project/dip721-nft-container/build.rs /mnt/c/Users/alide/Desktop/ICP/nft_project/dip721-nft-container/src/http.rs /mnt/c/Users/alide/Desktop/ICP/nft_project/dip721-nft-container/src/lib.rs
